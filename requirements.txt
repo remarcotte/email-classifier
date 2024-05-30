@@ -1,4 +1,8 @@
-scikit-learn>=0.24.0
-pandas>=1.2.0
-numpy>=1.19.0
-# Add other dependencies here
+json
+joblib
+logging
+pandas
+random
+imaplib
+email
+scikit-learn
